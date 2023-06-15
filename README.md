@@ -1,7 +1,7 @@
 # Locavore (iOS App)
 Locavore is an iOS app that helps users discover and connect with nearby restaurants and coffee shops.
 
-#### Video Demo: [ URL(https://www.youtube.com/watch?v=j0NFECukX_4)]
+#### Video Demo: <URL(https://www.youtube.com/watch?v=j0NFECukX_4>
 
 
 #### Description:
