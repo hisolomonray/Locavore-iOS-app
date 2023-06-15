@@ -24,7 +24,7 @@ class YelpSearchController: ObservableObject {
     private var cancellables: Set<AnyCancellable> = []
     
     func performSearch() {
-        let apiKey = "Bearer wumDdALZA7WVNuiDcCg6Am9hToc3_0XNN5SCQgx_5VlhlYlOTya4pfbFWbNz1meZ9wEPvMkdJkKZ26XEGjzZ-tmOKcgek2ey-42x9NWY5ME32pjRVoKqlfl3ubN3ZHYx"
+        let apiKey = "ADD YOUR OWN YELP API KEY"
         
         guard let encodedSearchTerm = searchTerm.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed),
               let encodedLocation = location.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) else {
