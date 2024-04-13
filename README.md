@@ -3,7 +3,9 @@ Locavore is an iOS app that helps users discover and connect with nearby restaur
 #### Video Demo: (https://www.youtube.com/watch?v=j0NFECukX_40) 
 
 
-![giphy copy](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/c0eca539-f26b-4588-8f38-7f1c78741da0) ![giphy copy](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/2c297b2e-60b7-4329-9713-8d751952c4bb) ![giphy copy 2](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/042cb8ef-8b82-4ff8-a304-9ab601b9b041) ![giphy (1)](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/e0fcc4e8-aaee-4e31-8c48-a5c7632bffd8)
+![giphy copy](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/c0eca539-f26b-4588-8f38-7f1c78741da0) ![giphy copy](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/2c297b2e-60b7-4329-9713-8d751952c4bb) 
+![giphy copy 2](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/042cb8ef-8b82-4ff8-a304-9ab601b9b041) 
+![giphy (1)](https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/e0fcc4e8-aaee-4e31-8c48-a5c7632bffd8)
 
 
 
