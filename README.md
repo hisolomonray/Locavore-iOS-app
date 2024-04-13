@@ -4,6 +4,13 @@ Locavore is an iOS app that helps users discover and connect with nearby restaur
 #### Video Demo: <URL(https://www.youtube.com/watch?v=j0NFECukX_40) >
 
 
+https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/0a4a8303-cdd7-4305-898b-1f47c16a43ab
+https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/b0e8a6c0-3c62-46e0-8921-622b7c100e4f
+https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/1337b932-8907-4743-b3c5-2262b186ff72
+https://github.com/hisolomonray/Locavore-iOS-app/assets/57193672/1d4564bb-8b9c-4e9f-9f1d-4f370e442c7d
+
+
+
 #### Description:
 The Locavore SwiftUI iOS App is a user-friendly application designed entirely using SwiftUI, without relying on external libraries or frameworks. The app aims to assist users in discovering and connecting with local restaurants, coffee shops, and wine bars in their area, with a focus on promoting locally sourced ingredients and supporting local businesses.
 
